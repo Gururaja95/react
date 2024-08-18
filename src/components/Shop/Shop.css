@@ -1,0 +1,15 @@
+.shops{
+    margin: 80px auto;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.shop img{
+    width: 100%;
+    border-radius: 10px;
+    display: block;
+}
+.shop{
+    flex-basis: 31%;
+}
